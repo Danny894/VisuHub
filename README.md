@@ -32,6 +32,11 @@ streamlit run your_file_name.py
 
 Ensure that you are in the directory containing the application file.
 
+## Live Application
+You can access the live version of the application here:
+
+[VisuApp - Interactive Data Visualization](https://visuapp-6oqdnysxugorteftsxmkty.streamlit.app/)
+
 ## Usage
 
 ### 1. Navigation
@@ -54,7 +59,7 @@ Use the sidebar to switch between the following sections:
 
 ```
 |-- .idea
-|-- main.py
+|-- your_file_name.py
 |-- README.md
 ```
 
@@ -68,6 +73,7 @@ If you want to contribute to this project, follow these steps:
 
 ## License
 This project is licensed under the MIT License.
+
 
 
 
