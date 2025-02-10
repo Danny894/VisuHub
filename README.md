@@ -53,7 +53,7 @@ Utiliza la barra lateral para moverte entre las siguientes secciones:
 ## Estructura del Proyecto
 
 ```
-|-- 
+|-- .idea
 |-- main.py
 |-- README.md
 ```
